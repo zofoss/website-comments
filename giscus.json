@@ -1,3 +1,4 @@
 {
-  "origins": ["https://www.zofoss.org"]
+  "origins": ["https://www.zofoss.org"],
+  "defaultCommentOrder": "oldest"
 }
